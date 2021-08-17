@@ -31,6 +31,13 @@ header .logo{
   font-size: 40px;
 }
 
+header .container .site{
+  margin-left: 5px;
+  color: #ffffff;
+  font-family: "arial black";
+  font-size: 40px;
+}
+
 header nav a{
   text-decoration: none;
   color: #AAA;
