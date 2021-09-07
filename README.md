@@ -4,12 +4,9 @@
 
 <img src="img/Projeto Netflix.gif">
 
-<h4> 📝 Conhecimentos adquiridos: </h4>
+Link do site: https://projeto-netflix-js.netlify.app/
 
-- Utilização de estrutura semântica com a tag ```header``` 
-- Utilização do ```border-box``` para organização dos conteúdos na nav
-- Utilização das propriedades ```::before``` e ```:hover::before``` para criar o efeito da barra ao passar o mouse sobre os items da nav
-
+### Partes do Projeto:
 
 📌 NavBar com Logotipo AvengerFlix e menu com efeito de negritar o texto quando mouse passa em cima;
 
